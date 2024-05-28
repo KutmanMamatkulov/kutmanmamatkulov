@@ -8,6 +8,9 @@
     color: white;
 }
 
+.projectlist {
+    max-width: 50%
+}
 
 body {
   font-family: 'Open Sans', sans-serif;
