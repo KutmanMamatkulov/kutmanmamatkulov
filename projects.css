@@ -2,7 +2,9 @@
     color: #5d5d5d; /* Set the text color to white */
  /* Remove underline from links */
 }
-
+@page {
+  size: auto;
+}
 /* This will make only the "Get Started" link text white */
 #getstarted a {
     color: white;
